@@ -5,8 +5,8 @@
 		<title>Formulário em PHP</title>
 	</head>
 	<body>
-		<?php
-		
-		?>
+		<h1>Cadastrar Usuário</h1>
+		<form method="POST" action="processo.php">
+		</form>
 	</body>	
 </html>
