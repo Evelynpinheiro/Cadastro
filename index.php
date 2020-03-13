@@ -19,6 +19,8 @@
 
         <label>Telefone:</label>
         <input type="int" name="telefone" placeholder="Digite seu telefone"><br><br>
+	
+	<input type="submit" value="cadastrar">
 
         </form>
 	</body>	
